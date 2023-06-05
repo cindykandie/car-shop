@@ -1,0 +1,27 @@
+[
+    {
+      "make": "Mazda",
+      "logo": "/images/mazda.png"
+    },
+    {
+      "make": "Mercedes",
+      "logo": "/images/mercedes-benz.png"
+    },
+    {
+      "make": "BMW",
+      "logo": "/images/bmw.png"
+    },
+    {
+        "make": "Toyota",
+        "logo": "/images/toyota.png"
+      },
+      {
+        "make": "Audi",
+        "logo": "/images/audi.png"
+      },
+      {
+        "make": "VoxWagen",
+        "logo": "/images/vw.png"
+      }
+  ]
+  

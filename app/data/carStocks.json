@@ -1,0 +1,87 @@
+[
+    {
+      "image": "/images/car2.jpeg",
+      "carType": "Sedan",
+      "year": 2022,
+      "price": "$25,000",
+      "port": "Port A"
+    },
+    {
+      "image": "/images/car2.jpeg",
+      "carType": "SUV",
+      "year": 2021,
+      "price": "$35,000",
+      "port": "Port B"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Hatchback",
+      "year": 2020,
+      "price": "$18,000",
+      "port": "Port C"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Convertible",
+      "year": 2022,
+      "price": "$42,000",
+      "port": "Port D"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Pickup Truck",
+      "year": 2019,
+      "price": "$30,500",
+      "port": "Port E"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Sports Car",
+      "year": 2023,
+      "price": "$50,000",
+      "port": "Port F"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Compact SUV",
+      "year": 2021,
+      "price": "$28,500",
+      "port": "Port G"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Electric",
+      "year": 2022,
+      "price": "$32,000",
+      "port": "Port H"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Minivan",
+      "year": 2020,
+      "price": "$26,500",
+      "port": "Port I"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Luxury",
+      "year": 2023,
+      "price": "$65,000",
+      "port": "Port J"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Crossover",
+      "year": 2022,
+      "price": "$31,500",
+      "port": "Port K"
+    },
+    {
+        "image": "/images/car2.jpeg",
+        "carType": "Sedan",
+      "year": 2021,
+      "price": "$22,000",
+      "port": "Port L"
+    }
+  ]
+  
