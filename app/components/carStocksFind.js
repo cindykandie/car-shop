@@ -2,6 +2,8 @@ import Link from 'next/link';
 import carBrands from '../data/carBrands.json';
 import carLabels from '../data/carLabels.json';
 import carColors from '../data/carColors.json';
+import carYears from '../data/carYears.json';
+import carBodyTypes from '../data/carBodyTypes.json'
 
 export default function CarStocksSearch() {
     return (
