@@ -1,7 +1,10 @@
 import Image from 'next/image'
 import AskButton from './askBtn';
+import carStocks from '../data/carStocks.json';
 
 export default function HeroSection() {
+  const numCars = carStocks.length;
+
   return (
     <div className="flex flex-col items-center justify-center gap-6 mx-10 md:flex-row md:flex-row-reverse md:justify-center md:items-center">
       <Image
@@ -21,7 +24,7 @@ export default function HeroSection() {
         </p>
           <div className='flex align-center justify-start gap-4'>
           <button className="border border-transparent bg-blue-500 text-white px-4 py-2 rounded-lg">
-            See Available Stocks (112,272)
+            See Available Stocks ({numCars})
           </button>
           <AskButton />
         </div>
