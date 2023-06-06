@@ -19,10 +19,13 @@ export default function HeroSection() {
         <p>
           With more than 18 years' experience in the direct car import business, we know everything it takes to source the best cars, process paperwork, and deliver quality clean cars from anywhere. Ready to get started?
         </p>
-        <button className="border border-transparent bg-blue-500 text-white px-4 py-2 rounded-lg mt-4">
-          See Available Stocks (112,272)
-        </button>
-        <AskButton />
+          <div className='flex align-center justify-start gap-4'>
+          <button className="border border-transparent bg-blue-500 text-white px-4 py-2 rounded-lg">
+            See Available Stocks (112,272)
+          </button>
+          <AskButton />
+        </div>
+        
       </div>
     </div>
   );
