@@ -1,6 +1,6 @@
 import ContactForm from '../components/contactForm'
 import LatestImports from '../components/latestImports'
-import WhyMotokaaSection from '../components/whyMotokaa'
+
 
 export default function ContactUs() {
   return (

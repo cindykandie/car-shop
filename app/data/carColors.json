@@ -1,0 +1,8 @@
+[
+    { "value": "", "label": "Choose Color" },
+    { "value": "red", "label": "Red" },
+    { "value": "blue", "label": "Blue" },
+    { "value": "green", "label": "Green" },
+    { "value": "yellow", "label": "Yellow" }
+  ]
+  
