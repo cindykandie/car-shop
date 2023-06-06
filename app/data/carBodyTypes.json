@@ -1,0 +1,15 @@
+[
+    { "value": "", "label": "Choose Body Type" },
+    { "value": "sedan", "label": "Sedan" },
+    { "value": "suv", "label": "SUV" },
+    { "value": "hatchback", "label": "Hatchback" },
+    { "value": "convertible", "label": "Convertible" },
+    { "value": "pickup", "label": "Pickup Truck" },
+    { "value": "sports", "label": "Sports Car" },
+    { "value": "compact-suv", "label": "Compact SUV" },
+    { "value": "electric", "label": "Electric" },
+    { "value": "minivan", "label": "Minivan" },
+    { "value": "luxury", "label": "Luxury" },
+    { "value": "crossover", "label": "Crossover" }
+  ]
+  

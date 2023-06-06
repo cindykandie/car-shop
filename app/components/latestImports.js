@@ -4,7 +4,7 @@ import carStocks from '../data/carStocks.json';
 export default function CarStocksSection() {
   return (
     <div className="flex flex-col items-center justify-center gap-5 mt-8">
-      <h3 className="text-2xl font-bold mb-4">Latest Car Stocks</h3>
+      <h3 className="text-2xl font-bold mb-4">Latest Car Stocks All Ready To Import</h3>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
         {carStocks.map((car) => (

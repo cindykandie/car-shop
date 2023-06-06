@@ -1,7 +1,10 @@
 import Image from 'next/image'
 import AskButton from './askBtn';
+import carStocks from '../data/carStocks.json';
 
 export default function HeroSection() {
+  const numCars = carStocks.length;
+
   return (
     <div className="flex flex-col items-center justify-center gap-6 mx-10 md:flex-row md:flex-row-reverse md:justify-center md:items-center">
       <Image
@@ -19,10 +22,13 @@ export default function HeroSection() {
         <p>
           With more than 18 years' experience in the direct car import business, we know everything it takes to source the best cars, process paperwork, and deliver quality clean cars from anywhere. Ready to get started?
         </p>
-        <button className="border border-transparent bg-blue-500 text-white px-4 py-2 rounded-lg mt-4">
-          See Available Stocks (112,272)
-        </button>
-        <AskButton />
+          <div className='flex align-center justify-start gap-4'>
+          <button className="border border-transparent bg-blue-500 text-white px-4 py-2 rounded-lg">
+            See Available Stocks ({numCars})
+          </button>
+          <AskButton />
+        </div>
+        
       </div>
     </div>
   );

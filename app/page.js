@@ -1,4 +1,3 @@
-import AskQstns from './components/contactSection'
 import HeroSection from './components/heroSection'
 import LatestImports from './components/latestImports'
 import CarMakeSection from './components/makes'
